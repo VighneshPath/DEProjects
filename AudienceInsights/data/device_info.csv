@@ -1,0 +1,5 @@
+device_id,device_type,os
+1,Phone,Android
+2,Tablet,iOS
+3,Desktop,Windows
+4,SmartTV,Linux
